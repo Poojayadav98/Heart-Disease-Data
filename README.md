@@ -5,7 +5,7 @@ This repository contains a dataset on heart disease obtained from Kaggle. The da
 This repository hosts a dataset sourced from Kaggle, featuring medical attributes of individuals and their heart disease status. The dataset comprises several medical paramteres like age, sex, cholesterol levels, and more, aimed at predicting the presence of heart disease in patients.
 ## Dataset Details
 •	Source: Kaggle
-•	Number of Instances: 303
+•	Number of Instances: 30
 •	Attributes: 14 (including the target variable 'target')
 •	Target Variable: 'target' (Indicates the presence of heart disease in the patient, 1 for presence and 0 for absence)
 ## File Structure
